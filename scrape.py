@@ -83,7 +83,6 @@ def main():
     while True:
 
         try:
-
             availabilities = []
 
             # scrape availability data from web and filter out fully booked
@@ -123,8 +122,7 @@ def main():
             n_scrapes += 1
 
         except KeyboardInterrupt:
-
-            print('Exiting...')
+            print('\nExiting...')
             break
 
 
