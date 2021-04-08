@@ -148,7 +148,6 @@ thing in the morning, and act immediately. The early bird catches the worm
 after all :)
 
 ![image info](./utils/fig.png)
-* Note small n size. Will upate image as additional data collected.
 
 2. **Have your insurance information ready.**
 
