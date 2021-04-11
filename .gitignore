@@ -1,3 +1,4 @@
 .DS_Store
 past_availabilities
+update_plot.py
 utils/uszips_mine.csv

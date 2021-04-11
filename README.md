@@ -140,8 +140,8 @@ that require multiple doses, you will be given the option to schedule both shots
 1. **Time of day matters. A lot.**
 
 While organization and luck are significant factors, it also seems that the
-resources which this repo scrapes are updated most frequently between 11:30
-PM and 7:30 AM EST. Also at play is that fewer people are awake to snatch
+resources which this repo scrapes are updated most frequently between 12:00
+AM and 8:00 AM EST. Also at play is that fewer people are awake to snatch
 up appointments during those hours. So short of leaving the scraper running
 all day long, it is highly recommended to run it late at night and/or first
 thing in the morning, and act immediately. The early bird catches the worm
